@@ -1,7 +1,7 @@
 # hello-world
-Este es mi primer repo 
+Este es mi primer intento actualizando repos 
 
- Huacasi Durand, Davemon123
+ Huacasi Durand, Angel
 
 ## Subtítulo
 
