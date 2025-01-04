@@ -1,7 +1,7 @@
 # hello-world
 Este es mi primer intento actualizando repos 
 
- Huacasi Durand, Angel
+ Huacasi Durand, Angel XD
 
 ## Subtítulo
 
