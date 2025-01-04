@@ -1,4 +1,13 @@
 # hello-world
 Este es mi primer repo 
 
- Huacasi, Davemon123
+ Huacasi Durand, Davemon123
+
+## Subtítulo
+
+- Este es mi primer cambio a mi repo `hello-world`
+- Este es el segundo cambio
+
+## Segunda Secciòn 
+
+## Otro subtitulo
